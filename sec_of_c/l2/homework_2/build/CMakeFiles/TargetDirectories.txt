@@ -1,0 +1,2 @@
+/Users/tsenyov/Univ/sec_of_c/l2/homework_2/build/CMakeFiles/edit_cache.dir
+/Users/tsenyov/Univ/sec_of_c/l2/homework_2/build/CMakeFiles/rebuild_cache.dir

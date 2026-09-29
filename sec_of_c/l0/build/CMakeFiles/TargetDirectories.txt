@@ -1,0 +1,3 @@
+/Users/tsenyov/Univ/sec_of_c/l0/build/CMakeFiles/test_app.dir
+/Users/tsenyov/Univ/sec_of_c/l0/build/CMakeFiles/edit_cache.dir
+/Users/tsenyov/Univ/sec_of_c/l0/build/CMakeFiles/rebuild_cache.dir

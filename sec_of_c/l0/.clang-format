@@ -1,0 +1,16 @@
+BasedOnStyle: Google
+Language: Cpp
+Standart: Latest
+ColumnLimit: 100
+IndentWidth: 4
+TabWidth: 4
+UseTab: Newer
+AccessModifierOffset: -4
+BreakBeforeBraces: Attach
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+IncludeBlocks: Regroup
+SortIncludes: CaseSensitiv
+PointerAlignment: Left
+ReferenceAlignment: Left
