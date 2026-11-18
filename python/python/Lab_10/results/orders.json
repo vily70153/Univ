@@ -1,0 +1,38 @@
+[
+  {
+    "number": 1,
+    "total": "200.00",
+    "items": [
+      {
+        "dish": "Борщ",
+        "category": "супи",
+        "price": "85.00",
+        "quantity": 2
+      },
+      {
+        "dish": "Чай",
+        "category": "напої",
+        "price": "30.00",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "total": "155.00",
+    "items": [
+      {
+        "dish": "Сирник",
+        "category": "десерти",
+        "price": "95.00",
+        "quantity": 1
+      },
+      {
+        "dish": "Чай",
+        "category": "напої",
+        "price": "30.00",
+        "quantity": 2
+      }
+    ]
+  }
+]

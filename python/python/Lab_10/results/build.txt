@@ -1,0 +1,167 @@
+running egg_info
+writing src/restaurant_orders.egg-info/PKG-INFO
+writing dependency_links to src/restaurant_orders.egg-info/dependency_links.txt
+writing entry points to src/restaurant_orders.egg-info/entry_points.txt
+writing requirements to src/restaurant_orders.egg-info/requires.txt
+writing top-level names to src/restaurant_orders.egg-info/top_level.txt
+reading manifest file 'src/restaurant_orders.egg-info/SOURCES.txt'
+writing manifest file 'src/restaurant_orders.egg-info/SOURCES.txt'
+running sdist
+running egg_info
+writing src/restaurant_orders.egg-info/PKG-INFO
+writing dependency_links to src/restaurant_orders.egg-info/dependency_links.txt
+writing entry points to src/restaurant_orders.egg-info/entry_points.txt
+writing requirements to src/restaurant_orders.egg-info/requires.txt
+writing top-level names to src/restaurant_orders.egg-info/top_level.txt
+reading manifest file 'src/restaurant_orders.egg-info/SOURCES.txt'
+writing manifest file 'src/restaurant_orders.egg-info/SOURCES.txt'
+running check
+creating restaurant_orders-1.0.0
+creating restaurant_orders-1.0.0/src/restaurant_orders
+creating restaurant_orders-1.0.0/src/restaurant_orders.egg-info
+creating restaurant_orders-1.0.0/tests
+copying files to restaurant_orders-1.0.0...
+copying README.md -> restaurant_orders-1.0.0
+copying pyproject.toml -> restaurant_orders-1.0.0
+copying src/restaurant_orders/__init__.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/analytics.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/api.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/application.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/async_client.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/config.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/data.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/database.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/db_demo.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/errors.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/files.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/main.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/models.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/performance.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/persistence.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/repositories.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/services.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders/streaming.py -> restaurant_orders-1.0.0/src/restaurant_orders
+copying src/restaurant_orders.egg-info/PKG-INFO -> restaurant_orders-1.0.0/src/restaurant_orders.egg-info
+copying src/restaurant_orders.egg-info/SOURCES.txt -> restaurant_orders-1.0.0/src/restaurant_orders.egg-info
+copying src/restaurant_orders.egg-info/dependency_links.txt -> restaurant_orders-1.0.0/src/restaurant_orders.egg-info
+copying src/restaurant_orders.egg-info/entry_points.txt -> restaurant_orders-1.0.0/src/restaurant_orders.egg-info
+copying src/restaurant_orders.egg-info/requires.txt -> restaurant_orders-1.0.0/src/restaurant_orders.egg-info
+copying src/restaurant_orders.egg-info/top_level.txt -> restaurant_orders-1.0.0/src/restaurant_orders.egg-info
+copying tests/test_api.py -> restaurant_orders-1.0.0/tests
+copying tests/test_basic.py -> restaurant_orders-1.0.0/tests
+copying tests/test_cli_pipeline.py -> restaurant_orders-1.0.0/tests
+copying tests/test_config.py -> restaurant_orders-1.0.0/tests
+copying tests/test_database.py -> restaurant_orders-1.0.0/tests
+copying tests/test_domain.py -> restaurant_orders-1.0.0/tests
+copying tests/test_files.py -> restaurant_orders-1.0.0/tests
+copying tests/test_performance.py -> restaurant_orders-1.0.0/tests
+copying tests/test_streaming.py -> restaurant_orders-1.0.0/tests
+Writing restaurant_orders-1.0.0/setup.cfg
+Creating tar archive
+removing 'restaurant_orders-1.0.0' (and everything under it)
+running egg_info
+writing src/restaurant_orders.egg-info/PKG-INFO
+writing dependency_links to src/restaurant_orders.egg-info/dependency_links.txt
+writing entry points to src/restaurant_orders.egg-info/entry_points.txt
+writing requirements to src/restaurant_orders.egg-info/requires.txt
+writing top-level names to src/restaurant_orders.egg-info/top_level.txt
+reading manifest file 'src/restaurant_orders.egg-info/SOURCES.txt'
+writing manifest file 'src/restaurant_orders.egg-info/SOURCES.txt'
+running bdist_wheel
+running build
+running build_py
+creating build/lib/restaurant_orders
+copying src/restaurant_orders/streaming.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/services.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/repositories.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/persistence.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/performance.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/models.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/main.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/files.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/errors.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/db_demo.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/database.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/data.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/config.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/async_client.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/application.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/api.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/analytics.py -> build/lib/restaurant_orders
+copying src/restaurant_orders/__init__.py -> build/lib/restaurant_orders
+running egg_info
+writing src/restaurant_orders.egg-info/PKG-INFO
+writing dependency_links to src/restaurant_orders.egg-info/dependency_links.txt
+writing entry points to src/restaurant_orders.egg-info/entry_points.txt
+writing requirements to src/restaurant_orders.egg-info/requires.txt
+writing top-level names to src/restaurant_orders.egg-info/top_level.txt
+reading manifest file 'src/restaurant_orders.egg-info/SOURCES.txt'
+writing manifest file 'src/restaurant_orders.egg-info/SOURCES.txt'
+installing to build/bdist.linux-x86_64/wheel
+running install
+running install_lib
+creating build/bdist.linux-x86_64/wheel
+creating build/bdist.linux-x86_64/wheel/restaurant_orders
+copying build/lib/restaurant_orders/__init__.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/analytics.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/api.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/application.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/async_client.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/config.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/data.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/database.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/db_demo.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/errors.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/files.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/main.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/models.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/performance.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/persistence.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/repositories.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/services.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+copying build/lib/restaurant_orders/streaming.py -> build/bdist.linux-x86_64/wheel/./restaurant_orders
+running install_egg_info
+Copying src/restaurant_orders.egg-info to build/bdist.linux-x86_64/wheel/./restaurant_orders-1.0.0-py3.12.egg-info
+running install_scripts
+creating build/bdist.linux-x86_64/wheel/restaurant_orders-1.0.0.dist-info/WHEEL
+creating '/workspace/scratch/c9c9675bd756/Univ/python/Lab_10/dist/.tmp-5ylqx1gg/restaurant_orders-1.0.0-py3-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
+adding 'restaurant_orders/__init__.py'
+adding 'restaurant_orders/analytics.py'
+adding 'restaurant_orders/api.py'
+adding 'restaurant_orders/application.py'
+adding 'restaurant_orders/async_client.py'
+adding 'restaurant_orders/config.py'
+adding 'restaurant_orders/data.py'
+adding 'restaurant_orders/database.py'
+adding 'restaurant_orders/db_demo.py'
+adding 'restaurant_orders/errors.py'
+adding 'restaurant_orders/files.py'
+adding 'restaurant_orders/main.py'
+adding 'restaurant_orders/models.py'
+adding 'restaurant_orders/performance.py'
+adding 'restaurant_orders/persistence.py'
+adding 'restaurant_orders/repositories.py'
+adding 'restaurant_orders/services.py'
+adding 'restaurant_orders/streaming.py'
+adding 'restaurant_orders-1.0.0.dist-info/METADATA'
+adding 'restaurant_orders-1.0.0.dist-info/WHEEL'
+adding 'restaurant_orders-1.0.0.dist-info/entry_points.txt'
+adding 'restaurant_orders-1.0.0.dist-info/top_level.txt'
+adding 'restaurant_orders-1.0.0.dist-info/RECORD'
+removing build/bdist.linux-x86_64/wheel
+Successfully built restaurant_orders-1.0.0.tar.gz and restaurant_orders-1.0.0-py3-none-any.whl
+* Creating isolated environment: venv+pip...
+* Installing packages in isolated environment:
+  - setuptools>=70
+* Getting build dependencies for sdist...
+* Installed build dependency versions:
+  - setuptools==84.2.1
+* Building sdist...
+* Building wheel from sdist
+* Creating isolated environment: venv+pip...
+* Installing packages in isolated environment:
+  - setuptools>=70
+* Getting build dependencies for wheel...
+* Installed build dependency versions:
+  - setuptools==84.2.1
+* Building wheel...

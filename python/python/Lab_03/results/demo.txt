@@ -1,0 +1,8 @@
+Order #1: 200.00 UAH
+Order #2: 155.00 UAH
+Order #3: 0.00 UAH
+summarize: 0.000034 s
+statistics: {'categories': ['десерти', 'напої', 'супи'], 'popularity': {'Борщ': 2, 'Чай': 3, 'Сирник': 1}, 'bounds': (Decimal('0'), Decimal('200.00')), 'revenue': Decimal('355.00'), 'groups': {'супи': Decimal('170.00'), 'напої': Decimal('90.00'), 'десерти': Decimal('95.00')}}
+average: 118.3333333333333333333333333
+at least 180: [1]
+find #2: Order #2: 155.00 UAH

@@ -1,0 +1,20 @@
+.........................................................                [100%]
+================================ tests coverage ================================
+_______________ coverage: platform linux, python 3.12.14-final-0 _______________
+
+Name                                     Stmts   Miss Branch BrPart  Cover   Missing
+------------------------------------------------------------------------------------
+src/restaurant_manager/__init__.py           0      0      0      0   100%
+src/restaurant_manager/analytics.py         44      7      8      0    87%   15-22
+src/restaurant_manager/application.py       42      1      4      0    98%   30
+src/restaurant_manager/data.py               7      0      0      0   100%
+src/restaurant_manager/errors.py             4      0      0      0   100%
+src/restaurant_manager/files.py             88      0     20      1    99%   76->exit
+src/restaurant_manager/main.py              25      1      4      1    93%   38
+src/restaurant_manager/models.py            58      1      8      0    98%   25
+src/restaurant_manager/repositories.py      19      0      2      0   100%
+src/restaurant_manager/services.py          10      0      0      0   100%
+src/restaurant_manager/streaming.py         89     13     32      1    88%   136-148, 154
+------------------------------------------------------------------------------------
+TOTAL                                      386     23     78      3    94%
+57 passed in 0.21s

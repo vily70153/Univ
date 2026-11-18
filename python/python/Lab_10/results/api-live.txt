@@ -1,0 +1,35 @@
+GET /health
+HTTP 200
+{"status":"ok"}
+
+POST /dishes
+HTTP 201
+{"id":1,"name":"borsch","category_id":1,"price_cents":8500}
+
+POST /orders
+HTTP 201
+{"id":1}
+
+GET /orders/1/total
+HTTP 200
+{"total":"170"}
+
+PATCH /dishes/1
+HTTP 200
+{"id":1,"name":"borsch","category_id":1,"price_cents":9000}
+
+GET /orders/1/total
+HTTP 200
+{"total":"170"}
+
+GET /orders/statistics
+HTTP 200
+{"count":1,"average":"170"}
+
+POST /orders
+HTTP 404
+{"detail":"dish not found"}
+
+GET /orders
+HTTP 200
+[{"id":1,"status":"new"}]

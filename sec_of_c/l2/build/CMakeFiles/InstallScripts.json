@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/tsenyov/Univ/sec_of_c/l2/build/cmake_install.cmake",
+		"/Users/tsenyov/Univ/sec_of_c/l2/build/task_1/cmake_install.cmake",
+		"/Users/tsenyov/Univ/sec_of_c/l2/build/task_2/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

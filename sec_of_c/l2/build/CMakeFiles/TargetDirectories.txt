@@ -1,0 +1,8 @@
+/Users/tsenyov/Univ/sec_of_c/l2/build/CMakeFiles/edit_cache.dir
+/Users/tsenyov/Univ/sec_of_c/l2/build/CMakeFiles/rebuild_cache.dir
+/Users/tsenyov/Univ/sec_of_c/l2/build/task_1/CMakeFiles/task_1.dir
+/Users/tsenyov/Univ/sec_of_c/l2/build/task_1/CMakeFiles/edit_cache.dir
+/Users/tsenyov/Univ/sec_of_c/l2/build/task_1/CMakeFiles/rebuild_cache.dir
+/Users/tsenyov/Univ/sec_of_c/l2/build/task_2/CMakeFiles/task_2.dir
+/Users/tsenyov/Univ/sec_of_c/l2/build/task_2/CMakeFiles/edit_cache.dir
+/Users/tsenyov/Univ/sec_of_c/l2/build/task_2/CMakeFiles/rebuild_cache.dir

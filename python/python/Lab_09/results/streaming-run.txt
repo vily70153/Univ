@@ -1,0 +1,19 @@
+[
+  {
+    "mode": "eager",
+    "seconds": 2.7745243519999576,
+    "peak_mib": 43.78737163543701,
+    "orders": 25000,
+    "revenue": "15899937.00",
+    "average": "635.99748"
+  },
+  {
+    "mode": "lazy",
+    "seconds": 2.280995112000028,
+    "peak_mib": 0.27855587005615234,
+    "orders": 25000,
+    "revenue": "15899937.00",
+    "average": "635.99748"
+  }
+]
+first qualifying: [(9, Decimal('572.00'), Decimal('65.00')), (11, Decimal('571.00'), Decimal('73.00')), (12, Decimal('680.00'), Decimal('77.00'))]

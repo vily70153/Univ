@@ -1,0 +1,3 @@
+rollback: invalid dish rejected
+orders: 1 total: 200 average: 200
+DB-API search: [(1, 'Борщ', 8500)]

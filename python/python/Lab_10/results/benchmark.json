@@ -1,0 +1,49 @@
+{
+  "records": 100000,
+  "orders": 25000,
+  "cpu": [
+    {
+      "implementation": "sequential",
+      "seconds": 0.03649142199992639,
+      "repeats": [
+        0.03373515999999199,
+        0.03649142199992639,
+        0.037713049999979376
+      ],
+      "parent_peak_mib": 3.2669525146484375,
+      "speedup": 1.0
+    },
+    {
+      "implementation": "numpy",
+      "seconds": 0.03955421099999512,
+      "repeats": [
+        0.03955421099999512,
+        0.03819404300008955,
+        0.05709663699997236
+      ],
+      "parent_peak_mib": 12.022355079650879,
+      "speedup": 0.9225673089505158
+    },
+    {
+      "implementation": "process_pool",
+      "seconds": 0.0598495520000597,
+      "repeats": [
+        0.06398895100005575,
+        0.0598495520000597,
+        0.05341034800005673
+      ],
+      "parent_peak_mib": 6.690753936767578,
+      "speedup": 0.6097192172781842
+    }
+  ],
+  "io": {
+    "sequential": 0.011199787999998989,
+    "threads": 0.012350150999964171
+  },
+  "cache": {
+    "hits_before_invalidation": 1,
+    "before": 1589993700,
+    "after": 1589993800
+  },
+  "memory_note": "tracemalloc measures Python allocations in parent only; excludes worker RSS"
+}

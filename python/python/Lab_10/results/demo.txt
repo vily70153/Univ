@@ -1,0 +1,4 @@
+valid=4; invalid=1; orders=2
+Order #1: 200.00 UAH
+Order #2: 155.00 UAH
+WARNING:restaurant_orders.files:invalid record at line 6

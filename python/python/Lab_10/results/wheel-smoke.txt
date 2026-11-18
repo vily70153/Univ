@@ -1,0 +1,13 @@
+version: 1.0.0
+import: /workspace/scratch/c9c9675bd756/work/wheel-env/lib/python3.12/site-packages/restaurant_orders/__init__.py
+health: 200 {'status': 'ok'}
+dish: 201
+order: 201
+total: {'total': '170'}
+/workspace/scratch/c9c9675bd756/work/wheel-env/lib/python3.12/site-packages/fastapi/testclient.py:1: StarletteDeprecationWarning: Using `httpx` with `starlette.testclient` is deprecated; install `httpx2` instead.
+  from starlette.testclient import TestClient as TestClient  # noqa
+INFO:httpx:HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://testserver/dishes "HTTP/1.1 201 Created"
+INFO:httpx:HTTP Request: POST http://testserver/orders "HTTP/1.1 201 Created"
+INFO:httpx:HTTP Request: GET http://testserver/orders/1/total "HTTP/1.1 200 OK"
